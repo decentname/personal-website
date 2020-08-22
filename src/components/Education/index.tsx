@@ -1,10 +1,9 @@
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 
-import Timeline from 'components/ui/Timeline';
+import EducationBlock from 'components/ui/EducationBlock';
 import Container from 'components/ui/Container';
 import TitleSection from 'components/ui/TitleSection';
-import FormatHtml from 'components/utils/FormatHtml';
 
 import { SectionTitle } from 'helpers/definitions';
 
@@ -65,11 +64,10 @@ const Education: React.FC = () => {
         } = item.node;
 
         return (
-          <Timeline
+          <EducationBlock
             key={id}
             title={university}
             subtitle={degree}
-            content={<FormatHtml content={html} />}
             startDate={startDate}
             endDate={endDate}
           />

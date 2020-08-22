@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'Facebook'
-position: 'Frontend Developer'
-startDate: 'May 2013'
-endDate: 'Jun 2015'
+company: 'iFlyLabs'
+position: 'Intern'
+startDate: 'Feb 2017'
+endDate: 'May 2017'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Developed the Laravel Package for iFlyChat and implemented unit tests for chat modules.

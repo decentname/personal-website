@@ -1,8 +1,8 @@
 ---
 category: 'hero section'
-title: 'Frontend Developer'
-subtitle: 'I am the Great Gatsby'
-content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+title: 'Full Stack Developer'
+subtitle: 'Who am I?'
+content: 'I am a Full stack developer with Bachelors degree in computer science. I build websites, native apps for iOS and Android, write APIs, manage databases and most importantly, never leave my clients hanging. Being a young and curious developer, I am always working on cutting-edge technologies and constantly innovating and learning new stuff. This also allows me to use the best technologies suited to a particular project requirement.'
 linkTo: '/resume/'
 linkText: 'View My Profile'
 ---

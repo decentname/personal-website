@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'The Great Gasby Inc'
-position: 'CEO & Founder'
+company: 'Zuppler'
+position: 'Full Stack Developer'
 startDate: 'Jan 2018'
 endDate: 'Present'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Handling the UI part of the internal tools that Zuppler uses like customer service app and working on APIs and features/integration­s that come along.

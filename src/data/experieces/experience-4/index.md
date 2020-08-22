@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'Netlify'
-position: 'Senior Frontend Developer'
-startDate: 'Jun 2015'
-endDate: 'Jan 2018'
+company: 'iFlyLabs'
+position: 'Software Developer'
+startDate: 'Jun 2017'
+endDate: 'Dec 2017'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Worked on development of iFlyChat, a real time enterprise chat solution which can be integrated into websites.
