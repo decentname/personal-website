@@ -16,7 +16,7 @@ const Footer: React.FC = () => (
           </Styled.Icon>
         </Styled.Link>
         <Styled.Link
-          href="https://github.com/himanshu0128"
+          href="https://twitter.com/himanshu0128"
           rel="noreferrer noopener"
           target="_blank"
         >
