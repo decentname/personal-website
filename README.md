@@ -11,3 +11,4 @@ This is a personal website / blog using [Gatsby](https://www.gatsbyjs.org/), [Ma
     - Add Dark Mode Support
     - Subscribe to Newsletter
     - Google Adsense
+    - Add Time to Read with each Blog
