@@ -8,7 +8,9 @@ tags: ['Productivity']
 published: true
 ---
 
-Pomodoro is a time management technique where you split your day into brief intervals (usually 25 minutes), separated by quick breaks. Each​ interval​ is what we call a Pomodoro. Simple yet powerful, all you need to be able to follow this technique is a timer.
+So, what the heck is a Pomodoro technique?
+
+Well, it's a time management technique where you split your day into brief intervals (usually 25 minutes), separated by quick breaks. Each​ interval​ is what we call a Pomodoro. Simple yet powerful, all you need to be able to follow this technique is a timer.
 
 First, a little background: I heard about Pomodoro from a colleague who would swear by it. His love and conviction in Pomodoro convinced me to try the technique as well. However, My first attempt turned out to be an epic failure. Here's what happened: I started an interval and within one minute, someone walked over to my desk to discuss an important feature. R.I.P Pomodoro!
 
