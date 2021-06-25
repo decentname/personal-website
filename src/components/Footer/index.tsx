@@ -29,6 +29,13 @@ const Footer: React.FC = () => (
             <Icon icon={['fab', 'dev']} />
           </Styled.Icon>
         </Styled.Link>
+        <Styled.Link
+          href="https://www.codementor.io/@himanshu0128?refer=badge"
+          rel="noreferrer noopener"
+          target="_blank"
+        >
+          <img src="https://www.codementor.io/m-badges/himanshu0128/contact-me.svg" alt="Codementor badge" />
+        </Styled.Link>
       </Styled.Links>
     </Container>
   </Styled.Footer>
